@@ -6,4 +6,4 @@ some pyhon functions
 
 new python code
 
-i am old senior from vetka2
+i am old senior from vetka2 numders 2
