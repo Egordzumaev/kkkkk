@@ -6,4 +6,4 @@ some pyhon functions
 
 new python code
 
-there is info from master
+there is info from main 
