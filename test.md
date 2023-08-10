@@ -1,9 +1,9 @@
 # заголовок
 
-**здесь какой то код**
+## Здесь какой то код
 
 some pyhon functions
 
 new python code
 
-there is info from main 
+there is info from main moli 
